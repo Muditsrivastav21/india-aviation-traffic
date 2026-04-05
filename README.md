@@ -8,7 +8,7 @@ Explore the dataset using the below links:
 - City-wise: [Domestic](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/domestic/city.csv&stickyColumnName=City1&sort=Year%2Cdesc) or [International](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/city.csv&stickyColumnName=City1&sort=Year%2Cdesc) (DGCA)
 - [Country-wise](https://flatgithub.com/Vonter/india-aviation-traffic?filename=aggregated/international/country.csv&stickyColumnName=Country) (DGCA)
 
-## Visualizations
+## Visualization
 
 Visualizations and related R code are available under the [viz/](viz) folder in this repository:
 
