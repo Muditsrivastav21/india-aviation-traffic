@@ -5,7 +5,7 @@ import pandas as pd
 
 from dateutil import parser
 
-def parse_html_type1(soup, html_file)
+def parse_html_type1(soup, html_file):
 
     daily_data = {}
 
